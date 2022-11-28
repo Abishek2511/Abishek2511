@@ -1,4 +1,4 @@
 # Hi I'm Abishek V
-Currently pursuing B.Tech in IT
-Interested in Machine Learning and security threats
+Pursuing B.Tech Information Technology as UG Discipline
+Exploring Machine Learning and Security Threats
 
