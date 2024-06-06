@@ -1,4 +1,3 @@
-# Abishek V
-Pursuing B.Tech Information Technology as UG Discipline
-Exploring Machine Learning and Security Threats
+# Abishek Venkatesan
+A passionate cyber security enthusiast currently doing masters in cybersecurity.
 
